@@ -82,8 +82,7 @@ html{
     border-radius:50%;
     border:0.7rem dashed var(--colorSecundario);
     background-color:var(--colorBgImg);
-    padding: 0.5rem;
-    opacity: 0.9;
+    padding: 0.5rem;    
 }
 
 .person-name{
